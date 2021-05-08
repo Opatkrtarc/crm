@@ -1,0 +1,21 @@
+[{
+	"id":1,
+	"text":"客户管理",
+	"children":[{
+		"id":11,
+		"text":"车险投保",
+		"url":"/cha"
+	},{
+		"id":12,
+		"text":"部门管理",
+		"url":"/department"
+	},{
+		"id":13,
+		"text":"角色管理",
+		"url":"/role"
+	},{
+		"id":14,
+		"text":"权限管理",
+		"url":"/permission"
+	}]
+}]
