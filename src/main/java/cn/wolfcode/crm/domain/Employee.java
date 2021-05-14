@@ -12,4 +12,6 @@ public class Employee {
 
     private String password;
 
+    private int age;
+
 }
